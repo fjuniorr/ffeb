@@ -1,0 +1,13 @@
+Package: ffeb
+Type: Package
+Title: Pacote para auxiliar os Estados Brasileiros na previsão de receitas
+Version: 0.1.0
+Date: 2015-04-26
+Authors@R:  person("Francisco", "Alves", 
+            email = "fjunior.alves.oliveira@gmail.com", 
+            role = c("aut", "cre"))
+Description: Pacote desenvolvido no âmbito do Núcleo de Previsão de Receitas
+Estaduais do Fórum Fiscal dos Estados Brasileiros (FFEB) como forma de facilitar
+a utilização por parte dos estados das metodologias utilizadas pelo Núcleo no
+desenvolvimento dos seus trabalhos.
+License: MIT
